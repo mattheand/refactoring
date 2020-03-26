@@ -1,4 +1,4 @@
-package domain;
+package com.gildedrose.domain;
 
 import com.gildedrose.Item;
 

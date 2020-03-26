@@ -1,9 +1,9 @@
 package com.gildedrose;
 
-import domain.DecreaseStrategy;
-import domain.IncreaseStrategy;
-import domain.LegendaryStrategy;
-import domain.VariableStrategy;
+import com.gildedrose.domain.DecreaseStrategy;
+import com.gildedrose.domain.IncreaseStrategy;
+import com.gildedrose.domain.LegendaryStrategy;
+import com.gildedrose.domain.VariableStrategy;
 import java.util.Arrays;
 
 class GildedRose {

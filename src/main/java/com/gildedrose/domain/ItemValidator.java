@@ -1,4 +1,4 @@
-package domain;
+package com.gildedrose.domain;
 
 public class ItemValidator {
     private static final int MIN_QUALITY_VALUE = 0;
